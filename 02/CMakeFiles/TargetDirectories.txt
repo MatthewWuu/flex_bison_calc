@@ -1,0 +1,3 @@
+/home/inorganicunix/compiler/lab/02/CMakeFiles/rebuild_cache.dir
+/home/inorganicunix/compiler/lab/02/CMakeFiles/edit_cache.dir
+/home/inorganicunix/compiler/lab/02/CMakeFiles/calc.dir
